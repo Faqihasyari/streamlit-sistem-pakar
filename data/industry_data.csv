@@ -1,0 +1,47 @@
+industry,career_goal,priority,job_demand,learning_curve,salary_level,community_support,language
+Web Development,Kerja cepat,Banyak lowongan,High,Easy,Medium,High,JavaScript
+Web Development,Kerja cepat,Banyak lowongan,High,Easy,Medium,High,JavaScript
+Web Development,Freelance,Mudah dipelajari,High,Easy,Medium,High,JavaScript
+Web Development,Startup,Gaji tinggi,High,Easy,High,High,JavaScript
+Web Development,Magang,Mudah dipelajari,High,Easy,Medium,High,JavaScript
+Web Development,Kerja cepat,Banyak lowongan,Medium,Easy,Low,High,PHP
+Web Development,Freelance,Banyak lowongan,Medium,Easy,Low,High,PHP
+Web Development,Kerja cepat,Mudah dipelajari,Medium,Easy,Low,Medium,PHP
+Web Development,Startup,Gaji tinggi,High,Easy,High,High,Python
+Web Development,Magang,Mudah dipelajari,High,Easy,High,High,Python
+Web Development,Kerja cepat,Banyak lowongan,High,Easy,High,High,Python
+Data Science,Kerja cepat,Gaji tinggi,High,Easy,High,High,Python
+Data Science,Magang,Gaji tinggi,High,Easy,High,High,Python
+Data Science,Startup,Gaji tinggi,High,Easy,High,High,Python
+Data Science,Kerja cepat,Banyak lowongan,High,Easy,High,High,Python
+Data Science,Freelance,Gaji tinggi,Medium,Easy,High,High,Python
+Data Science,Magang,Mudah dipelajari,High,Easy,High,High,Python
+Mobile Development,Kerja cepat,Banyak lowongan,High,Easy,Medium,High,JavaScript
+Mobile Development,Freelance,Mudah dipelajari,High,Easy,Medium,High,JavaScript
+Mobile Development,Startup,Gaji tinggi,High,Easy,High,High,JavaScript
+Mobile Development,Magang,Mudah dipelajari,High,Easy,Medium,High,JavaScript
+Mobile Development,Kerja cepat,Banyak lowongan,High,Medium,Medium,Medium,Kotlin
+Mobile Development,Magang,Banyak lowongan,High,Medium,Medium,Medium,Kotlin
+Mobile Development,Startup,Gaji tinggi,Medium,Medium,High,Medium,Kotlin
+Mobile Development,Kerja cepat,Banyak lowongan,High,Medium,Medium,High,Java
+Mobile Development,Magang,Banyak lowongan,High,Medium,Medium,High,Java
+Backend Development,Kerja cepat,Banyak lowongan,High,Easy,Medium,High,Python
+Backend Development,Startup,Gaji tinggi,High,Easy,High,High,Python
+Backend Development,Magang,Mudah dipelajari,High,Easy,Medium,High,Python
+Backend Development,Freelance,Banyak lowongan,High,Easy,Medium,High,Python
+Backend Development,Kerja cepat,Banyak lowongan,High,Easy,Medium,High,JavaScript
+Backend Development,Startup,Gaji tinggi,High,Easy,High,High,JavaScript
+Backend Development,Freelance,Banyak lowongan,High,Easy,Medium,High,JavaScript
+Backend Development,Kerja cepat,Banyak lowongan,High,Medium,Medium,High,Java
+Backend Development,Magang,Banyak lowongan,High,Medium,Medium,High,Java
+Backend Development,Startup,Gaji tinggi,High,Hard,Medium,Medium,Java
+Backend Development,Kerja cepat,Banyak lowongan,Medium,Easy,Low,High,PHP
+Backend Development,Freelance,Banyak lowongan,Medium,Easy,Low,High,PHP
+Backend Development,Startup,Gaji tinggi,Medium,Hard,High,Medium,Golang
+Backend Development,Kerja cepat,Gaji tinggi,Medium,Hard,High,Medium,Golang
+Game Development,Magang,Banyak lowongan,Medium,Medium,Medium,High,C#
+Game Development,Kerja cepat,Banyak lowongan,Medium,Medium,Medium,High,C#
+Game Development,Startup,Gaji tinggi,Medium,Medium,High,High,C#
+Game Development,Freelance,Mudah dipelajari,Medium,Easy,Low,High,JavaScript
+Game Development,Magang,Mudah dipelajari,Medium,Easy,Low,High,JavaScript
+Game Development,Startup,Mudah dipelajari,Low,Easy,Low,Medium,JavaScript
